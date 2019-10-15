@@ -1,0 +1,589 @@
+
+symbols.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jupiter
+  rotate: false
+  xy: 524, 502
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Mars
+  rotate: false
+  xy: 508, 452
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Mercury
+  rotate: false
+  xy: 508, 402
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Moon
+  rotate: false
+  xy: 132, 654
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Neptune
+  rotate: false
+  xy: 492, 352
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Pluto
+  rotate: false
+  xy: 492, 302
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Saturn
+  rotate: false
+  xy: 492, 252
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sun
+  rotate: false
+  xy: 492, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Uranus
+  rotate: false
+  xy: 492, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Venus
+  rotate: false
+  xy: 492, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ancient
+  rotate: false
+  xy: 2, 394
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+aqu
+  rotate: false
+  xy: 100, 10
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+ari
+  rotate: false
+  xy: 851, 903
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+blackLabel
+  rotate: false
+  xy: 492, 52
+  size: 48, 48
+  split: 3, 5, 4, 3
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+calendar
+  rotate: false
+  xy: 2, 296
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+can
+  rotate: false
+  xy: 930, 942
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 777, 829
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 777, 885
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+copyright
+  rotate: false
+  xy: 581, 959
+  size: 347, 37
+  orig: 347, 37
+  offset: 0, 0
+  index: -1
+day0
+  rotate: false
+  xy: 2, 198
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day1
+  rotate: false
+  xy: 2, 100
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day10
+  rotate: false
+  xy: 328, 544
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day11
+  rotate: false
+  xy: 442, 720
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day12
+  rotate: false
+  xy: 426, 622
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day13
+  rotate: false
+  xy: 426, 524
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day14
+  rotate: false
+  xy: 116, 458
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day15
+  rotate: false
+  xy: 100, 360
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day16
+  rotate: false
+  xy: 100, 262
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day17
+  rotate: false
+  xy: 100, 164
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day18
+  rotate: false
+  xy: 100, 66
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day19
+  rotate: false
+  xy: 214, 446
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day2
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day20
+  rotate: false
+  xy: 312, 446
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day21
+  rotate: false
+  xy: 198, 348
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day22
+  rotate: false
+  xy: 198, 250
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day23
+  rotate: false
+  xy: 296, 348
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day24
+  rotate: false
+  xy: 198, 152
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day25
+  rotate: false
+  xy: 296, 250
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day26
+  rotate: false
+  xy: 296, 152
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day27
+  rotate: false
+  xy: 198, 54
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day3
+  rotate: false
+  xy: 246, 740
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day4
+  rotate: false
+  xy: 344, 740
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day5
+  rotate: false
+  xy: 451, 818
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day6
+  rotate: false
+  xy: 132, 556
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day7
+  rotate: false
+  xy: 230, 642
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day8
+  rotate: false
+  xy: 328, 642
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+day9
+  rotate: false
+  xy: 230, 544
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 492, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+firstQMLabel
+  rotate: false
+  xy: 558, 452
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fullMLabel
+  rotate: false
+  xy: 558, 402
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fullmoon
+  rotate: false
+  xy: 2, 708
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 851, 847
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+label
+  rotate: false
+  xy: 296, 54
+  size: 96, 96
+  split: 8, 8, 10, 10
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+lastQMLabel
+  rotate: false
+  xy: 542, 352
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+leo
+  rotate: false
+  xy: 907, 886
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+lib
+  rotate: false
+  xy: 907, 830
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 916
+  size: 577, 80
+  orig: 577, 80
+  offset: 0, 0
+  index: -1
+newMLabel
+  rotate: false
+  xy: 542, 302
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newmoon
+  rotate: false
+  xy: 2, 578
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+option-down
+  rotate: false
+  xy: 410, 426
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+option-up
+  rotate: false
+  xy: 394, 328
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+pagan
+  rotate: false
+  xy: 542, 252
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+pagan-down
+  rotate: false
+  xy: 542, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+pis
+  rotate: false
+  xy: 963, 886
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+plate-down
+  rotate: false
+  xy: 132, 752
+  size: 112, 84
+  orig: 112, 84
+  offset: 0, 0
+  index: -1
+plate-up
+  rotate: false
+  xy: 2, 492
+  size: 112, 84
+  orig: 112, 84
+  offset: 0, 0
+  index: -1
+quit-down
+  rotate: false
+  xy: 394, 230
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+quit-up
+  rotate: false
+  xy: 394, 132
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+recycle-down
+  rotate: false
+  xy: 542, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+recycle-up
+  rotate: false
+  xy: 542, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sag
+  rotate: false
+  xy: 963, 830
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+scarab
+  rotate: false
+  xy: 542, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sco
+  rotate: false
+  xy: 524, 664
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+sopsoft
+  rotate: false
+  xy: 2, 838
+  size: 447, 76
+  orig: 447, 76
+  offset: 0, 0
+  index: -1
+sunwheel-down
+  rotate: false
+  xy: 394, 34
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+sunwheel-up
+  rotate: false
+  xy: 581, 861
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+tau
+  rotate: false
+  xy: 524, 608
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tibetwheel
+  rotate: false
+  xy: 679, 861
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+transit
+  rotate: false
+  xy: 542, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 574, 502
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+vir
+  rotate: false
+  xy: 524, 552
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+wheel-down
+  rotate: false
+  xy: 592, 352
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+wheel-up
+  rotate: false
+  xy: 592, 302
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

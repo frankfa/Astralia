@@ -1,0 +1,15 @@
+{
+  com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+    start: { down: sunwheel-down, up: sunwheel-up },
+    options: { down: option-down, up: option-up },
+    quit: { down:  quit-down, up: quit-up},
+    settime: {down: pagan-down, up: pagan},
+    wheel: { down: wheel-down, up: wheel-up},
+    recycle: {down: recycle-down, up: recycle-up},
+	close: {down: close, up: close},
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Image: {
+    logo: { drawable: logo },
+    sun: { drawable: Sun },
+  },
+}
